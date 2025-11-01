@@ -6,11 +6,22 @@
 
 ## Dashboard Link : [https://app.powerbi.com/view?r=eyJrIjoiMWU1MTNkY2MtMjJkMS00ZDk5LWI5YzktYTI2OTAxYTY0MzZlIiwidCI6Ijg2OTY0MTdiLTM1NDgtNDFjNC04NTU3LWE0ZWRjN2U4NTQ4MSIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiMDYxNTdkMzQtZjY3OS00NWY3LTkzYzItMDE4ODJmMzEwMDE3IiwidCI6Ijg2OTY0MTdiLTM1NDgtNDFjNC04NTU3LWE0ZWRjN2U4NTQ4MSIsImMiOjEwfQ%3D%3D)
 
-## Problem Statement
+## Business Problem Statement
 
-AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of India. All their 50 stores ran a massive promotion during the Diwali 2023 and Sankranti 2024 (festive time in India) on their AtliQ branded products. Now the sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.  
+AtliQ Mart, a leading retail chain operating 50 supermarkets across South India, invested heavily in promotional campaigns during Diwali 2023 and Sankranti 2024 to boost sales of its private-label products.
+Despite substantial promotional spending, management lacked clarity on which campaign strategies actually drove incremental revenue and sales uplift, and which promotions failed to deliver ROI.
 
-### Steps followed 
+The Sales Director needed a data-driven view to:
+
+Identify which promotion types (e.g., cashback, BOGOF, percentage discounts) performed best by revenue and units sold,
+
+Understand how promotion effectiveness varied by product pricing segment, and
+
+Derive actionable insights to optimize future festival campaigns for profitability and stock clearance.
+
+In short, the business challenge was to transform raw promotional data into a decision framework that reveals which promotions create real commercial impact — and which should be re-evaluated.  
+
+### 💡 Project Overview
 
 - Step 1 : Load data into Power query , dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
